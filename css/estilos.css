@@ -2,5 +2,24 @@ body
 {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    color: aqua;
+    color: rgb(31, 81, 81);
+    font-size: 18px;
+    margin: 0;
+    padding: 0;
+}
+
+#conteiner
+
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid rgb(191, 71, 71);
+    margin: 0 auto;
+}
+
+#container h1
+
+{
+    font-size: 25px;
 }
